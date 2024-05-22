@@ -1,0 +1,176 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+}
+nav .nav {
+  gap: 20vw;
+  width: 100vw;
+  padding-top: 2vh;
+  padding-right: 3vw;
+  padding-left: 3vw;
+}
+nav img {
+  height: 6vh;
+}
+nav a {
+  font-size: 22px;
+  color: #f4f4f4;
+}
+
+section.EntradaSite {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  height: 105vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+section.EntradaSite .ttlEntradaSite {
+  padding-top: 15%;
+  color: #daa520;
+}
+section.EntradaSite .btnTxtApresentacao {
+  margin-left: 3vw;
+}
+section.EntradaSite h1 {
+  font-weight: 800;
+}
+section.EntradaSite h2 {
+  color: #f4f4f4;
+  font-weight: 400;
+}
+section.EntradaSite button {
+  width: 20%;
+  margin-top: 6vh;
+  background-color: #daa520;
+  color: #f4f4f4;
+  font-weight: 400;
+}
+
+section.Apresentacao {
+  background-color: #161616;
+  height: 105vh;
+  padding: 1vh 8vh 1vh 8vh;
+}
+section.Apresentacao .divApresentacao {
+  margin-top: 10vh;
+  display: flex;
+}
+section.Apresentacao .apresentacaoImg {
+  margin-right: 2vw;
+}
+section.Apresentacao img {
+  height: 60vh;
+  width: 400vh;
+}
+section.Apresentacao h3 {
+  color: #daa520;
+  font-weight: 800;
+}
+section.Apresentacao p {
+  font-size: 24px;
+  width: 60vw;
+  font-weight: 500;
+}
+
+section.ApresentacaoEquipe {
+  display: flex;
+  flex-direction: column;
+  height: 105vh;
+  background-color: #161616;
+}
+section.ApresentacaoEquipe .Equipe01 {
+  order: 1;
+}
+section.ApresentacaoEquipe .Equipe01 h3 {
+  text-align: center;
+  background-color: #daa520;
+  color: #f4f4f4;
+}
+section.ApresentacaoEquipe .Equipe01 .imgEquipe {
+  display: flex;
+  justify-content: center;
+  gap: 10vw;
+}
+section.ApresentacaoEquipe .Equipe01 img {
+  margin-bottom: 4vh;
+  margin-top: 4vh;
+  width: 26vw;
+  height: 34vh;
+}
+section.ApresentacaoEquipe .Equipe02 {
+  order: 2;
+}
+section.ApresentacaoEquipe .Equipe02 h3 {
+  text-align: center;
+  background-color: #daa520;
+  color: #f4f4f4;
+}
+section.ApresentacaoEquipe .Equipe02 .imgEquipe {
+  display: flex;
+  justify-content: center;
+  gap: 10vw;
+}
+section.ApresentacaoEquipe .Equipe02 img {
+  margin-bottom: 4vh;
+  margin-top: 4vh;
+  width: 26vw;
+  height: 34vh;
+}
+
+section.LocalizacaoEmpresa {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 110vh;
+  background-color: #161616;
+}
+section.LocalizacaoEmpresa h3 {
+  margin-bottom: 15vh;
+  background-color: #daa520;
+  height: 55%;
+}
+section.LocalizacaoEmpresa h4 {
+  color: #f4f4f4;
+}
+section.LocalizacaoEmpresa li {
+  font-size: 24px;
+}
+section.LocalizacaoEmpresa .ttlLocalizacao {
+  text-align: center;
+}
+section.LocalizacaoEmpresa .localizacaoConteudo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+section.LocalizacaoEmpresa .localizacaoConteudo img {
+  width: 40vw;
+  height: auto;
+  margin-right: 2vw;
+}
+section.LocalizacaoEmpresa .localizacaoConteudo ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+footer {
+  background-color: #161616;
+}
+footer .d-flex {
+  background-color: #daa520;
+}
+footer hr {
+  width: 60px;
+  background-color: #daa520;
+  height: 2px;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,185 @@
+$amarelo: #daa520;
+$branco: #f4f4f4;
+$preto: #161616;
+$ttlPrincipais: 65px;
+$subTtlPrincipais: 40px;
+$texto: 24px;
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    .nav{
+        gap: 20vw;
+        width: 100vw;
+        padding-top: 2vh;
+        padding-right: 3vw;
+        padding-left: 3vw;
+    }
+    img{
+        height: 6vh;
+    }
+    a{
+        font-size: 22px;
+        color: $branco;
+    }
+}
+section.EntradaSite{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: 105vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    .ttlEntradaSite{
+        padding-top: 15%;
+        color: $amarelo;
+    }
+    .btnTxtApresentacao{
+        margin-left: 3vw;
+    }
+    h1{
+        font-weight: 800;
+    }
+    h2{
+        color: $branco;
+        font-weight: 400;
+    }
+    button{
+        width: 20%;
+        margin-top: 6vh;
+        background-color: $amarelo;
+        color: $branco;
+        font-weight: 400;
+    }
+
+}
+section.Apresentacao{
+    background-color: $preto;
+    height: 105vh;
+    padding: 1vh 8vh 1vh 8vh;
+    .divApresentacao{
+        margin-top: 10vh;
+        display: flex;
+    }
+    .apresentacaoImg{
+        margin-right: 2vw;
+    }
+    img{
+        height: 60vh;
+        width: 400vh;
+    }
+    h3{
+        color: $amarelo;
+        font-weight: 800;
+    }
+    p{
+        font-size: $texto;
+        width: 60vw;
+        font-weight: 500;
+    }
+    
+}
+section.ApresentacaoEquipe {
+    display: flex;
+    flex-direction: column;
+    height: 105vh;
+    background-color: $preto;
+    .Equipe01 {
+        order: 1;
+
+        h3 {
+            text-align: center;
+            background-color: $amarelo;
+            color: $branco;
+        }
+
+        .imgEquipe {
+            display: flex;
+            justify-content: center;
+            gap: 10vw; 
+        }
+
+        img {
+            margin-bottom: 4vh;
+            margin-top: 4vh;
+            width: 26vw;
+            height: 34vh;
+        }
+    }
+
+    .Equipe02 {
+        order: 2;
+
+        h3 {
+            text-align: center;
+            background-color: $amarelo;
+            color: $branco;
+        }
+
+        .imgEquipe {
+            display: flex;
+            justify-content: center;
+            gap: 10vw;
+        }
+
+        img {
+            margin-bottom: 4vh;
+            margin-top: 4vh;
+            width: 26vw;
+            height: 34vh;
+        }
+    }
+}
+section.LocalizacaoEmpresa {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 110vh;
+    background-color: $preto;
+    h3{
+        margin-bottom: 15vh;
+        background-color: $amarelo;
+        height: 55%;
+    }
+    h4{
+        color: $branco;
+    }
+    li{
+        font-size: $texto;
+    }
+    .ttlLocalizacao{
+        text-align: center;
+    }
+    .localizacaoConteudo {
+        display: flex;
+        align-items: center; 
+        justify-content: center;
+        img {
+            width: 40vw; 
+            height: auto;
+            margin-right: 2vw;
+        }
+        ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+    }
+}
+footer{
+    background-color: $preto;
+    .d-flex{
+        background-color: $amarelo;
+    }
+    hr{
+        width: 60px;
+        background-color: $amarelo;
+        height: 2px;
+    }
+}

@@ -1,0 +1,21 @@
+﻿body {
+    margin-bottom: 60px;
+}
+
+/*A Class Conta serve para estilizar toda a tela de Login*/
+.Conta {
+    background-color: #1C003F;
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-radius: 20px;
+}
+
+/*Icones são a logo das redes sociais e para estilizar os títulos de Entre com a sua Conta*/
+.icones {
+    color: grey;
+    align-items: center;
+}
+
+/*A Class Email serve para estilizar a outra metade da tela de Login*/
+
