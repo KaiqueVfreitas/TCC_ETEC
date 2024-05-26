@@ -1,0 +1,10 @@
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCM\formsTCM\bin\Debug\formsTCM.exe.config
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCM\formsTCM\bin\Debug\formsTCM.exe
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCM\formsTCM\bin\Debug\formsTCM.pdb
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCM\formsTCM\obj\Debug\formsTCM.csproj.AssemblyReference.cache
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCM\formsTCM\obj\Debug\formsTCM.frmLogin.resources
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCM\formsTCM\obj\Debug\formsTCM.Properties.Resources.resources
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCM\formsTCM\obj\Debug\formsTCM.csproj.GenerateResource.cache
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCM\formsTCM\obj\Debug\formsTCM.csproj.CoreCompileInputs.cache
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCM\formsTCM\obj\Debug\formsTCM.exe
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCM\formsTCM\obj\Debug\formsTCM.pdb
