@@ -1,5 +1,0 @@
-Teste de responsividade. Web Breakpoints.
-Mobile, 480px
-	770px
-Tablet 835px
-	1025px
