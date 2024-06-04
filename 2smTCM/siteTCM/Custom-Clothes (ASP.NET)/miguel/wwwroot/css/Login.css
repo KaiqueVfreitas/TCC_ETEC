@@ -24,7 +24,7 @@
     height: 60vh;
     position:relative;
 }
-/*O método before serve para colocar a cor roxa no entre coma a sua conta de Redes Sociais*/
+/*O método before serve para colocar a cor roxa no entre com a sua conta de Redes Sociais*/
 .Container:before {
    content: "";
    position: absolute;
@@ -76,7 +76,7 @@
    flex-direction:column;
    align-items:center;
    justify-content:center;
-   margin-left:115px;
+   margin-left:110px;
 }
 
 /*Comportamento de Esqueceu a Senha quando for clicado*/
@@ -95,21 +95,21 @@ input {
     border-radius: 10px;
     width: 320px;
     background-color: #D9D9D9;
+    border:none;
 }
 /*Estilização do botão entrar */
 .botão {
     display:block;
     align-items:center;
     justify-content:center;
-    border-radius: 60px;
+    border-radius: 10px;
     border: 1px solid #1C003F;
     color: #FFFFFF;
     background-color: #1C003F;
-    padding: 12px 30px 0;
     height: 50px;
-    font-size:20px;
+    font-size:16px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    width:200px;
+    width:100px;
     align-self:center;
 }
 
