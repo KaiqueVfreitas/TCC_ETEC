@@ -28,3 +28,34 @@ C:\Users\Mask\Downloads\Custom-Clothes-main\Custom-Clothes-main\lara\obj\Debug\n
 C:\Users\Mask\Downloads\Custom-Clothes-main\Custom-Clothes-main\lara\obj\Debug\net8.0\CustomClothes.pdb
 C:\Users\Mask\Downloads\Custom-Clothes-main\Custom-Clothes-main\lara\obj\Debug\net8.0\CustomClothes.genruntimeconfig.cache
 C:\Users\Mask\Downloads\Custom-Clothes-main\Custom-Clothes-main\lara\obj\Debug\net8.0\ref\CustomClothes.dll
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\bin\Debug\net8.0\appsettings.json
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\bin\Debug\net8.0\CustomClothes.staticwebassets.runtime.json
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\bin\Debug\net8.0\CustomClothes.exe
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\bin\Debug\net8.0\CustomClothes.deps.json
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\bin\Debug\net8.0\CustomClothes.runtimeconfig.json
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\bin\Debug\net8.0\CustomClothes.dll
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\bin\Debug\net8.0\CustomClothes.pdb
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\obj\Debug\net8.0\CustomClothes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\obj\Debug\net8.0\CustomClothes.AssemblyInfoInputs.cache
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\obj\Debug\net8.0\CustomClothes.AssemblyInfo.cs
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\obj\Debug\net8.0\CustomClothes.csproj.CoreCompileInputs.cache
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\obj\Debug\net8.0\CustomClothes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\obj\Debug\net8.0\CustomClothes.RazorAssemblyInfo.cache
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\obj\Debug\net8.0\CustomClothes.RazorAssemblyInfo.cs
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\obj\Debug\net8.0\CustomClothes.sourcelink.json
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\obj\Debug\net8.0\staticwebassets\msbuild.CustomClothes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\obj\Debug\net8.0\staticwebassets\msbuild.build.CustomClothes.props
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CustomClothes.props
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CustomClothes.props
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\obj\Debug\net8.0\scopedcss\bundle\CustomClothes.styles.css
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\obj\Debug\net8.0\scopedcss\projectbundle\CustomClothes.bundle.scp.css
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\obj\Debug\net8.0\CustomClothes.dll
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\obj\Debug\net8.0\refint\CustomClothes.dll
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\obj\Debug\net8.0\CustomClothes.pdb
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\obj\Debug\net8.0\CustomClothes.genruntimeconfig.cache
+C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\kaique\obj\Debug\net8.0\ref\CustomClothes.dll

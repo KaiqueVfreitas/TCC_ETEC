@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mask\\Downloads\\Custom-Clothes-main\\Custom-Clothes-main\\lara\\",
+  "WorkspaceRootPath": "C:\\Users\\kaiqu\\OneDrive\\Documentos\\ETEC\\TCC - ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\lara\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A16E2E96-8F8E-4BC6-8E39-6C141EFAB000}|CustomClothes.csproj|c:\\users\\mask\\downloads\\custom-clothes-main\\custom-clothes-main\\lara\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A16E2E96-8F8E-4BC6-8E39-6C141EFAB000}|CustomClothes.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A16E2E96-8F8E-4BC6-8E39-6C141EFAB000}|CustomClothes.csproj|c:\\users\\kaiqu\\onedrive\\documentos\\etec\\tcc - etec\\2 semestre\\sites\\custom-clothes (asp.net)\\lara\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16E2E96-8F8E-4BC6-8E39-6C141EFAB000}|CustomClothes.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A16E2E96-8F8E-4BC6-8E39-6C141EFAB000}|CustomClothes.csproj|c:\\users\\mask\\downloads\\custom-clothes-main\\custom-clothes-main\\lara\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A16E2E96-8F8E-4BC6-8E39-6C141EFAB000}|CustomClothes.csproj|solutionrelative:wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A16E2E96-8F8E-4BC6-8E39-6C141EFAB000}|CustomClothes.csproj|c:\\users\\kaiqu\\onedrive\\documentos\\etec\\tcc - etec\\2 semestre\\sites\\custom-clothes (asp.net)\\lara\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16E2E96-8F8E-4BC6-8E39-6C141EFAB000}|CustomClothes.csproj|solutionrelative:data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16E2E96-8F8E-4BC6-8E39-6C141EFAB000}|CustomClothes.csproj|c:\\users\\kaiqu\\onedrive\\documentos\\etec\\tcc - etec\\2 semestre\\sites\\custom-clothes (asp.net)\\lara\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A16E2E96-8F8E-4BC6-8E39-6C141EFAB000}|CustomClothes.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.css",
-              "DocumentMoniker": "C:\\Users\\Mask\\Downloads\\Custom-Clothes-main\\Custom-Clothes-main\\lara\\wwwroot\\css\\Login.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\Login.css",
-              "ToolTip": "C:\\Users\\Mask\\Downloads\\Custom-Clothes-main\\Custom-Clothes-main\\lara\\wwwroot\\css\\Login.css",
-              "RelativeToolTip": "wwwroot\\css\\Login.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-02T22:26:12.266Z"
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqu\\OneDrive\\Documentos\\ETEC\\TCC - ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\lara\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\kaiqu\\OneDrive\\Documentos\\ETEC\\TCC - ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\lara\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:01:42.036Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mask\\Downloads\\Custom-Clothes-main\\Custom-Clothes-main\\lara\\Views\\Home\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Mask\\Downloads\\Custom-Clothes-main\\Custom-Clothes-main\\lara\\Views\\Home\\Login.cshtml",
-              "RelativeToolTip": "Views\\Home\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-25T15:54:01.204Z",
+              "DocumentIndex": 1,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqu\\OneDrive\\Documentos\\ETEC\\TCC - ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\lara\\Data\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Data\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\kaiqu\\OneDrive\\Documentos\\ETEC\\TCC - ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\lara\\Data\\DatabaseHelper.cs",
+              "RelativeToolTip": "Data\\DatabaseHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:01:13.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kaiqu\\OneDrive\\Documentos\\ETEC\\TCC - ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\lara\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\kaiqu\\OneDrive\\Documentos\\ETEC\\TCC - ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\lara\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T11:58:13.537Z",
               "EditorCaption": ""
             }
           ]
