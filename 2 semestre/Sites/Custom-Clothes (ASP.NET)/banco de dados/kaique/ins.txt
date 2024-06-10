@@ -1,0 +1,40 @@
+Tabela de login do cliente
+Nome 
+Email
+Senha
+ID do cliente (PK)
+
+
+Tabela de cadastro de compra dos clientes 
+Nome
+E-mail
+Telefone
+Endereço de entrega 
+	(CEP, Cidade, Estado, Pais, Rua, Numero, Complemento) 
+
+Metodo de pagamento 
+	(PIX, Boleto, Cartão de Credito, Cartão de Debito)
+Parcelas
+Data de nascimento 
+Genero 
+	(Marculino, Feminino, Outro)
+ID da compra(PK)
+ID do cliente(FK)
+
+
+
+
+
+
+Tabela de Historico de compras 
+Produto comprado
+Quantidade do produto
+Valor unitario do produto 
+Produto comprado
+Desconto aplicado
+	(5% a vista, 10% no PIX) 
+Metodo de pagamento 
+ID do cliente (FK) 
+ID do cliente (PK)
+ID da compra (FK)
+Registro da compra(PK)c

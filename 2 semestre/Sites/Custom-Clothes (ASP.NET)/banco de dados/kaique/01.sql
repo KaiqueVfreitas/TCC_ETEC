@@ -7,12 +7,11 @@ use dbCustomClothesAspNet;
 -- Tabela do cadastro de cliente, dados que serão usados para fazer login
 create table tbLoginCliente (
     id_cliente int auto_increment primary key,
-    -- Lower é para garantir que os registros de informação sempre vai ser em minusculo
+    -- Lower é para garantir que os registros de informação sempre vão ser em minusculo
     nome varchar(50) not null check (nome = lower(nome)),
     email varchar(50) not null check (email = lower(email)),
     senha varchar(30) not null
 );
-
 
 -- Tabela das informações mais extensas para receber as compras
 create table tbCadCompraCli (
@@ -33,7 +32,8 @@ create table tbCadCompraCli (
     metodopagamento enum('pix', 'boleto', 'cartão de credito', 'cartão de debito'),
     parcelas int,
     datanascimento date,
-    genero enum('masculino', 'feminino', 'outro')
+    genero enum('masculino', 'feminino', 'outro'),
+    id_cliente int -- Adicionando a coluna id_cliente para a chave estrangeira
 );
 
 -- Histórico de compras
@@ -43,13 +43,18 @@ create table tbHistCompras (
     quantidadeproduto int not null,
     valorunitario decimal(10, 2) not null,
     descontoaplicado enum('5%', '10%'),
-    metodopagamento enum('pix', 'boleto', 'cartão de credito', 'cartão de debito')
+    metodopagamento enum('pix', 'boleto', 'cartão de credito', 'cartão de debito'),
+    id_cliente int, -- Adicionando a coluna id_cliente para a chave estrangeira
+    id_compra int -- Adicionando a coluna id_compra para a chave estrangeira
 );
 
 -- Adição das chaves estrangeiras
 alter table tbCadCompraCli
-	add constraint fk_id_cliente -- Chave primaria da tbLogin... na tbCad... como chave estrangeira
+	add constraint fk_id_cliente_cad -- Chave primaria da tbLogin... na tbCad... como chave estrangeira
 		foreign key (id_cliente) references tbLoginCliente(id_cliente);
 
-
-
+alter table tbHistCompras
+	add constraint fk_id_cliente_hist -- Chave primaria da tbLogin... na tbHist... como chave estrangeira
+		foreign key (id_cliente) references tbLoginCliente(id_cliente),
+	add constraint fk_id_compra_hist -- Chave primaria da tbCad... na tbHist... como chave estrangeira
+		foreign key (id_compra) references tbCadCompraCli(id_compra);

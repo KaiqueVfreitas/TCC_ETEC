@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\lara\\CustomClothes.csproj": {}
   },
   "projects": {
@@ -12,9 +13,27 @@
         "projectPath": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\lara\\CustomClothes.csproj",
         "packagesPath": "C:\\Users\\Gih\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\lara\\obj\\",
+=======
+    "C:\\Users\\kaiqu\\OneDrive\\Documentos\\ETEC\\TCC - ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\lara\\CustomClothes.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kaiqu\\OneDrive\\Documentos\\ETEC\\TCC - ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\lara\\CustomClothes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kaiqu\\OneDrive\\Documentos\\ETEC\\TCC - ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\lara\\CustomClothes.csproj",
+        "projectName": "CustomClothes",
+        "projectPath": "C:\\Users\\kaiqu\\OneDrive\\Documentos\\ETEC\\TCC - ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\lara\\CustomClothes.csproj",
+        "packagesPath": "C:\\Users\\kaiqu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kaiqu\\OneDrive\\Documentos\\ETEC\\TCC - ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\lara\\obj\\",
+>>>>>>> 42cf27652d936716c480fa967caf814013073a56
         "projectStyle": "PackageReference",
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\Gih\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\kaiqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+>>>>>>> 42cf27652d936716c480fa967caf814013073a56
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +63,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
