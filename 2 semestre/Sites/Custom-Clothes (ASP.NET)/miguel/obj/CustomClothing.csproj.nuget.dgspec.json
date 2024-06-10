@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2smTCM\\siteTCM\\Custom-Clothes (ASP.NET)\\miguel\\CustomClothing.csproj": {}
+    "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\miguel\\CustomClothing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2smTCM\\siteTCM\\Custom-Clothes (ASP.NET)\\miguel\\CustomClothing.csproj": {
+    "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\miguel\\CustomClothing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2smTCM\\siteTCM\\Custom-Clothes (ASP.NET)\\miguel\\CustomClothing.csproj",
+        "projectUniqueName": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\miguel\\CustomClothing.csproj",
         "projectName": "CustomClothing",
-        "projectPath": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2smTCM\\siteTCM\\Custom-Clothes (ASP.NET)\\miguel\\CustomClothing.csproj",
+        "projectPath": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\miguel\\CustomClothing.csproj",
         "packagesPath": "C:\\Users\\Gih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2smTCM\\siteTCM\\Custom-Clothes (ASP.NET)\\miguel\\obj\\",
+        "outputPath": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\miguel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gih\\AppData\\Roaming\\NuGet\\NuGet.Config",

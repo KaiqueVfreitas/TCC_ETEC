@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2smTCM\\siteTCM\\Custom-Clothes (ASP.NET)\\miguel\\",
+  "WorkspaceRootPath": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\miguel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08F22013-95D3-4805-B7C5-5023E34BBD89}|CustomClothing.csproj|c:\\users\\gih\\desktop\\tcc-etec\\tcc-etec\\2smtcm\\sitetcm\\custom-clothes (asp.net)\\miguel\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{08F22013-95D3-4805-B7C5-5023E34BBD89}|CustomClothing.csproj|c:\\users\\gih\\desktop\\tcc-etec\\tcc-etec\\2 semestre\\sites\\custom-clothes (asp.net)\\miguel\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{08F22013-95D3-4805-B7C5-5023E34BBD89}|CustomClothing.csproj|solutionrelative:wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08F22013-95D3-4805-B7C5-5023E34BBD89}|CustomClothing.csproj|c:\\users\\gih\\desktop\\tcc-etec\\tcc-etec\\2smtcm\\sitetcm\\custom-clothes (asp.net)\\miguel\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08F22013-95D3-4805-B7C5-5023E34BBD89}|CustomClothing.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08F22013-95D3-4805-B7C5-5023E34BBD89}|CustomClothing.csproj|c:\\users\\gih\\desktop\\tcc-etec\\tcc-etec\\2smtcm\\sitetcm\\custom-clothes (asp.net)\\miguel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08F22013-95D3-4805-B7C5-5023E34BBD89}|CustomClothing.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2smTCM\\siteTCM\\Custom-Clothes (ASP.NET)\\miguel\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2smTCM\\siteTCM\\Custom-Clothes (ASP.NET)\\miguel\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-26T21:21:52.386Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2smTCM\\siteTCM\\Custom-Clothes (ASP.NET)\\miguel\\Views\\Home\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2smTCM\\siteTCM\\Custom-Clothes (ASP.NET)\\miguel\\Views\\Home\\Login.cshtml",
-              "RelativeToolTip": "Views\\Home\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T13:10:08.864Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Login.css",
-              "DocumentMoniker": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2smTCM\\siteTCM\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\css\\Login.css",
+              "DocumentMoniker": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\css\\Login.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\Login.css",
-              "ToolTip": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2smTCM\\siteTCM\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\css\\Login.css",
+              "ToolTip": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\css\\Login.css",
               "RelativeToolTip": "wwwroot\\css\\Login.css",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAGgAAAAUAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGMAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-24T13:11:24.43Z",
+              "WhenOpened": "2024-06-10T13:18:14.233Z",
               "EditorCaption": ""
             }
           ]

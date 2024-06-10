@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mask\\Downloads\\Custom-Clothes-main\\Custom-Clothes-main\\lara\\",
+  "WorkspaceRootPath": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\lara\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A16E2E96-8F8E-4BC6-8E39-6C141EFAB000}|CustomClothes.csproj|c:\\users\\mask\\downloads\\custom-clothes-main\\custom-clothes-main\\lara\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A16E2E96-8F8E-4BC6-8E39-6C141EFAB000}|CustomClothes.csproj|c:\\users\\gih\\desktop\\tcc-etec\\tcc-etec\\2 semestre\\sites\\custom-clothes (asp.net)\\lara\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A16E2E96-8F8E-4BC6-8E39-6C141EFAB000}|CustomClothes.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A16E2E96-8F8E-4BC6-8E39-6C141EFAB000}|CustomClothes.csproj|c:\\users\\mask\\downloads\\custom-clothes-main\\custom-clothes-main\\lara\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{A16E2E96-8F8E-4BC6-8E39-6C141EFAB000}|CustomClothes.csproj|c:\\users\\gih\\desktop\\tcc-etec\\tcc-etec\\2 semestre\\sites\\custom-clothes (asp.net)\\lara\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A16E2E96-8F8E-4BC6-8E39-6C141EFAB000}|CustomClothes.csproj|solutionrelative:wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -24,23 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Login.css",
-              "DocumentMoniker": "C:\\Users\\Mask\\Downloads\\Custom-Clothes-main\\Custom-Clothes-main\\lara\\wwwroot\\css\\Login.css",
+              "DocumentMoniker": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\lara\\wwwroot\\css\\Login.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\Login.css",
-              "ToolTip": "C:\\Users\\Mask\\Downloads\\Custom-Clothes-main\\Custom-Clothes-main\\lara\\wwwroot\\css\\Login.css",
+              "ToolTip": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\lara\\wwwroot\\css\\Login.css",
               "RelativeToolTip": "wwwroot\\css\\Login.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKUAAAAFAAAA",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAKUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-02T22:26:12.266Z"
+              "WhenOpened": "2024-06-02T22:26:12.266Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mask\\Downloads\\Custom-Clothes-main\\Custom-Clothes-main\\lara\\Views\\Home\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\lara\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Mask\\Downloads\\Custom-Clothes-main\\Custom-Clothes-main\\lara\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\lara\\Views\\Home\\Login.cshtml",
               "RelativeToolTip": "Views\\Home\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAwAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-25T15:54:01.204Z",
               "EditorCaption": ""
