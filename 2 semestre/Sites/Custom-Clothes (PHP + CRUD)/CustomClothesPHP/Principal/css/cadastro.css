@@ -1,0 +1,93 @@
+body{
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    font-family:Verdana, Tahoma, sans-serif;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    padding: 0;
+    margin: 0%;
+}
+.cabeca{
+    background-color:rgb(255, 255, 255);
+    height: 100px;
+    display: flex;
+    align-items: center;
+
+}
+.img{
+    width: 190px;
+    height: 60px;
+    margin-left: 40px;
+}
+.linha{
+    background-color: rgb(28, 0, 63);
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+h3{
+    margin-left: 45%;
+}
+.cent{
+    padding: 60px;
+    background-color: #D9D9D9;
+    width:600px;
+    margin-left: 30%;
+    text-align: center;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+    border-radius: 30px;
+    color: #1C003F;
+    font-size: larger;
+    align-items: flex-end;
+    
+    
+}
+label{
+    font-size: larger;
+    margin-right: 30px;
+}
+.caixa{
+    background-color: rgba(60, 49, 74, 0.3);
+    height: 33px;
+    color: rgb(255, 255, 255);
+    font-style:unset;
+    border: none;
+    margin-right: 60px;
+    width: 320px;
+    border-radius: 5px;
+    
+   
+}
+.caixa::placeholder{
+    color: rgba(240, 248, 255, 0.884);
+}
+.radiotmn{
+    display: flex;
+    flex-direction: column;
+    margin-right: 75px;
+    gap: 10px;
+}
+.letras{
+    font-size: medium;
+    padding: 10px ;
+}
+.conf{
+    display: flex;
+    align-items: center;
+    padding: 1%;
+    margin-right: 9%;
+    gap: 20px;
+}
+.botao{
+    background-color: #1C003F;
+    border: none;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    height: 33px;
+    width: 150px;
+    font-size: large;
+}
