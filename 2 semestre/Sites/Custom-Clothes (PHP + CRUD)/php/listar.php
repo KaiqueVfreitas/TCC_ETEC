@@ -6,6 +6,73 @@
     <link rel="stylesheet" type="text/css" href="deletar.css"/>
     <title>Daletar</title>
 </head>
+<style>
+    body{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-family:Verdana, Tahoma, sans-serif;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Garante que a div fique centralizada verticalmente */
+}
+
+div.quadrado {
+    width: 19vw;
+    height: 19vh;
+    border: 3px solid black;
+    background-color: red;
+}
+
+footer, nav {
+    background-color: #1C003F; /* Cor de fundo especificada */
+}
+
+footer *:not(.bg-body-tertiary),
+nav * {
+    color: #FFFFFF !important; /* Cor branca para todos os elementos, exceto os de cor especificada */
+}
+
+table{
+    width: 80%;
+    padding: 5%;
+    border: 2px;
+    margin-top: 6%;
+    text-align: center;
+       
+}
+
+td ,th{
+  border:  2px  solid rgb(228 ,139, 6 );
+}
+th{
+    color: #f6f6f6;
+   
+}
+.maior{
+    font-size: 23px;
+    color: #f6f6f6;
+}
+button{
+    cursor: pointer;
+    background-color: rgb(228, 139, 6);
+    border-radius: 10px;
+    font-size:medium ;
+    border: none;
+    padding: 10px;
+    width: 500px;
+    height: 50px;
+    font-family:Verdana,  Tahoma, sans-serif ;
+}
+</style>
 <body>
     <header>
         <img src="img/LogoCC.png" alt="Exemplo de imagem" width="300" height="200">
