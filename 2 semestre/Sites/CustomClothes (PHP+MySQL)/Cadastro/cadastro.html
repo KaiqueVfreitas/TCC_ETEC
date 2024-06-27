@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="cadastro.css">
+    <!-- estilização universal do nav-->
+    <link rel="stylesheet" type="text/css" href="../style.css"/>
+    <title>Cadastro</title>
+</head>
+<body>
+    <div class="cabeca">
+        <img class="img" src="../img/LogoCC.png" alt="Exemplo de imagem">
+    </div>
+    <nav>
+        <a href="../Cadastro/cadastro.html">CADASTRAR</a>
+        <a href="../Listar/listar.php">LISTAR</a>
+        <a href="../menu.html">INÍCIO</a>
+        <a href="../Pesquisar/pesquisar.html">PESQUISAR</a>
+        <a href="../Excluir/deletar.php">EXCLUIR</a>
+        <a href="../Alterar/alterar.php">ALTERAR</a>
+    </nav>
+    <!-- linha rocha -->
+    <div class="linha">
+        <h3>Cadastrar Produto</h3>
+    </div>
+    <form class="cent" id="formCad" name="formCad" method="post" action="cadastro.php">
+        <div>
+        <label for="txt">Peça de roupa: </label>
+        <input class="caixa" type="text" placeholder="Digite aqui..."
+         name="txtpeca" id="txtpeca" required>
+        </div>
+        <div>
+        <label for="txt">Cor: </label>
+        <input class="caixa" type="text" placeholder="Cor da Roupa"
+         name="txtcor" id="txtcor" required>
+        </div>
+        <div>
+        <label for="txt">Estampa: </label>
+        <input class="caixa" type="text" placeholder="Estampa da Roupa"
+         name="txtetmp" id="txtetmp" required>
+        </div>
+        <div class="radiotmn">
+        <label for="txt">Tamanho: </label>
+        <div class="letras">
+            <input type="radio" name="txttmn" value="PP" checked>
+            <label for="txt">PP</label>
+            <input type="radio" name="txttmn" value="p">
+            <label for="txt">P</label>
+            <input type="radio" name="txttmn" value="M">
+            <label for="txt">M</label>
+            <input type="radio" name="txttmn" value="G">
+            <label for="txt">G</label>
+            <input type="radio" name="txttmn" value="GG">
+            <label for="txt">GG</label>
+        </div>
+        </div>
+        <div>
+        <label for="txt">Preço: </label>
+        <input class="caixa" type="text" placeholder="Didite o preço"
+         name="txteprc" id="txteprc" required>
+        </div>
+        <div class="conf">
+            <input class="botao" type="button" value="Voltar" onclick="location.href='../menu.html'">
+            <input class="botao" type="submit" value="Registrar">
+            <input class="botao" type="reset" value="Limpar" onclick="document.getElementById('txtnome').focus();">
+        </div>
+
+        
+    </form>    
+</body>
+</html>
+

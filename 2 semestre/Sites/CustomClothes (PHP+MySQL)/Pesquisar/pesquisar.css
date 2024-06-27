@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+}
+
+.img {
+    max-width: 100%;
+    height: auto;
+}
+
+.linha {
+    text-align: center;
+    padding: 2em 0;
+}
+
+.linha h1 {
+    color: #220F3A;
+    margin: 0;
+    font-size: 2em;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2em auto;
+    padding: 2em;
+    max-width: 500px;
+    width: 90%;
+    border: 2px solid #220F3A;
+    border-radius: 0.5em;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+form h1 {
+    color: #220F3A;
+    margin-bottom: 1em;
+}
+
+form label {
+    margin-bottom: 0.5em;
+    font-size: 1.1em;
+}
+
+form input[type="text"] {
+    padding: 0.5em;
+    margin-bottom: 1em;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 0.3em;
+    font-size: 1em;
+}
+
+.botao {
+    padding: 0.7em 1.5em;
+    margin: 0.5em;
+    border: none;
+    border-radius: 0.3em;
+    background-color: #220F3A;
+    color: #fff;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.botao:hover {
+    background-color: #43347A;
+    transform: scale(1.05);
+}
+
+.form-buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    gap: 10px; /* Optional: Adds space between the buttons */
+}
+
+@media (max-width: 600px) {
+    .linha {
+        padding: 1em 0;
+    }
+
+    .linha h1 {
+        font-size: 1.5em;
+    }
+
+    form {
+        width: 95%;
+    }
+
+    .form-buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .form-buttons .botao {
+        width: 90%;
+        margin: 0.5em 0;
+    }
+}

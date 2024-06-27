@@ -1,5 +1,5 @@
 <?php
-include 'conexao.php';
+include '../conexao.php';
 $vcod=$_POST['txtdeletar'];
 //verificando se o código escolhido EXISTE na tabela                
 $pesq=$cmd-> query("select * from tbProduto where Id='$vcod'");

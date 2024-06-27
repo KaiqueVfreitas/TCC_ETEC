@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Istok+Web:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.cabeca img{
+    width: 20vw;
+}
+nav{
+    height: 6vh;
+    background-color: #220F3A;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav a{
+    color: #fff;
+    font-family: Istok Web;
+    font-weight: 900;
+    margin: 1rem;
+    font-size: 1em;
+}

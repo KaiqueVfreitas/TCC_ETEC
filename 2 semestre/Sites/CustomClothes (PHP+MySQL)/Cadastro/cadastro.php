@@ -1,5 +1,6 @@
 <?php
-include 'conexao.php';
+// aqui esta responsavel pela exclusao dos dados
+include '../conexao.php';
 $peca = $_POST['txtpeca'];
 $cor = $_POST['txtcor'];
 $estampa = $_POST['txtetmp'];

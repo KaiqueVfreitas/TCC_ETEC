@@ -1,5 +1,5 @@
 <?php
-include 'conexao.php';
+include '../conexao.php';
 $pesq = $_POST["pesquisa"];
 $pesq = $cmd -> query("select * from tbProduto where peca like '%$pesq%' ") ;
 $total_registros = $pesq->rowCount();
@@ -38,8 +38,10 @@ echo "<br/><br/>";
 echo "<a href='pesquisar.html'  class='botaopesq'> voltar </a>";
 }
 else
-{
-    echo "<a href='pesquisar.html' class='botaopesq'> voltar </a>";
-}
+    {
+     echo "<script language=javascript> window.alert('Não existem registros com esse nome!!!'); window.history.back(); </script>";
+    }
+
+// estilização da tela de dados encontrados (Tabela)
 echo "<link rel='stylesheet' type='text/css' href='pesq.css'/>";
 ?>
