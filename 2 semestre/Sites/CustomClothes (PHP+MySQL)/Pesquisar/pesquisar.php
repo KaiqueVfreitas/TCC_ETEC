@@ -1,10 +1,12 @@
 <?php
+echo "<link rel='stylesheet' type='text/css' href='../style.css'/>";
 include '../conexao.php';
 $pesq = $_POST["pesquisa"];
 $pesq = $cmd -> query("select * from tbProduto where peca like '%$pesq%' ") ;
 $total_registros = $pesq->rowCount();
 if ($total_registros > 0)
 {
+echo "<div class='todo'>";
 echo "<table>";
 echo "<tr> <th colspan=6 class='maior'> Roupas Cadastrados </th> </tr>";
 echo "<tr> 
@@ -35,7 +37,8 @@ while($linha=$pesq->fetch(PDO::FETCH_ASSOC))
 }
 echo "</table>";
 echo "<br/><br/>";
-echo "<a href='pesquisar.html'  class='botaopesq'> voltar </a>";
+echo "<a href='pesquisar.html'  class='botao'> voltar </a>";
+echo "</div>";
 }
 else
     {

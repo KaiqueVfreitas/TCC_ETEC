@@ -1,7 +1,7 @@
 <?php
 $servidor="localhost";
 $usuario="root";
-$senha ="!@#$";
+$senha ="12345678";
 $banco="dbCustomClothes";
 $cmd = new PDO("mysql:host=$servidor;dbname=$banco", $usuario, $senha);
 ?>

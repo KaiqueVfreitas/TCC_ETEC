@@ -4,60 +4,14 @@ body {
     padding: 0;
     background-color: #f4f4f9;
 }
-
-.img {
-    max-width: 100%;
-    height: auto;
-}
-
-.linha {
-    text-align: center;
-    padding: 2em 0;
-}
-
-.linha h1 {
-    color: #220F3A;
-    margin: 0;
-    font-size: 2em;
-}
-
-form {
+.todo{
     display: flex;
-    flex-direction: column;
     align-items: center;
-    margin: 2em auto;
-    padding: 2em;
-    max-width: 500px;
-    width: 90%;
-    border: 2px solid #220F3A;
-    border-radius: 0.5em;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    background-color: #fff;
+    flex-direction: column;
 }
-
-form h1 {
-    color: #220F3A;
-    margin-bottom: 1em;
-}
-
-form label {
-    margin-bottom: 0.5em;
-    font-size: 1.1em;
-}
-
-form input[type="text"] {
-    padding: 0.5em;
-    margin-bottom: 1em;
-    width: 100%;
-    border: 1px solid #ccc;
-    border-radius: 0.3em;
-    font-size: 1em;
-}
-
 .botao {
-    display: block;
     padding: 0.7em 1.5em;
-    margin: 2em auto;
+    margin: 0.5em;
     border: none;
     border-radius: 0.3em;
     background-color: #220F3A;
@@ -65,6 +19,7 @@ form input[type="text"] {
     font-size: 1em;
     cursor: pointer;
     transition: background-color 0.3s ease, transform 0.3s ease;
+    text-decoration: none;
 }
 
 .botao:hover {
@@ -103,3 +58,41 @@ form input[type="text"] {
     }
 }
 
+table {
+    width: 90%;
+    margin: 2em auto;
+    border-collapse: collapse;
+    border: 2px solid #220F3A;
+    border-radius: 0.5em;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+table th, table td {
+    padding: 1em;
+    text-align: left;
+}
+
+table th {
+    background-color: #220F3A;
+    color: #fff;
+}
+
+table td {
+    border-bottom: 1px solid #ddd;
+}
+
+@media (max-width: 600px) {
+    form {
+        width: 95%;
+    }
+
+    table {
+        width: 95%;
+    }
+
+    table th, table td {
+        padding: 0.5em;
+    }
+}
