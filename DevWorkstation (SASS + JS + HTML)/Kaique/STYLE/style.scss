@@ -1,0 +1,336 @@
+@import 'variaveis';
+
+
+* {
+  color: $corDaFontePrincipal;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+header {
+  position: fixed;
+  width: 100%;
+  backdrop-filter: blur(10px);
+  background-color: $corFundoBotao;
+  z-index: 1;
+
+  div.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 8vh;
+    div {
+      display: flex;
+      align-items: center;
+      img {
+        width: 5vw;
+        margin: 0.7vw;
+      }
+      h6 {
+        padding-top: 1vh;
+        font-family: $fonteFamiliaPrimaria;
+        font-weight: 700;
+        font-size: clamp(1em, 1.6em, 2em);
+      }
+    }
+  }
+  nav {
+    display: flex;
+    align-items: center;
+    gap: clamp(2vw, 5vw, 10vw);
+    a {
+      font-size: clamp(1.5vh, 2vh, 2.5vh);
+      font-weight: 600;
+      text-decoration: none;
+      color: $corDaFontePrincipal;
+    }
+  }
+  button {
+    border-radius: 16px;
+    border: none;
+    display: flex;
+    align-items: center;
+    height: clamp(3vh, 6vh, 12vh);
+    background: $gradiente;
+    i,
+    p {
+      margin: clamp(0.3vw, 0.6vw, 1vw);
+      font-weight: 700;
+      color: $corDaFontePrincipal;
+      font-size: clamp(0.4em, 0.9em, 1em);
+    }
+  }
+
+  &:hover {
+    top: 0;
+  }
+}
+
+main {
+  section.inicio {
+    background: no-repeat url(../IMG/fundo.png);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    position: relative;
+
+    .digitacao {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      white-space: nowrap;
+
+      div {
+        display: block;
+        font-weight: 700;
+        font-size: clamp(2rem, 4rem, 6rem);
+      }
+    
+    }
+
+    .footerSectionInicio {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
+      .divSubtituloInicio {
+        text-align: center;
+        margin-bottom: clamp(1rem, 1.5rem, 2rem);
+        h3 {
+          font-size: clamp(1.5rem, 1.8rem, 2rem);
+        }
+      }
+
+      .divImg {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        gap: clamp(4vw, 8vw, 12vw);
+        img {
+          width: clamp(3vw, 6vw, 12vw);
+          height: auto;
+        }
+      }
+    }
+  }
+
+  section.devWorkstation {
+    display: flex;
+    margin: clamp(0.3vh, 0.5vh, 1vh) clamp(0.5vw, 1vw, 2vw);
+    align-items: center;
+    padding: clamp(10vh, 15vh, 20vh) 0;
+    h2,
+    p {
+      color: $corTextoPreto;
+    }
+    h2 {
+      font-size: clamp(1.5em, 2em, 2.5em);
+      background: $corBotaoGradiente;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font-weight: 300;
+      font-family: $fonteFamiliaSecundaria;
+      margin-bottom: clamp(5vh, 7vh, 10vh);
+    }
+    p {
+      font-weight: 650;
+      font-family: $fonteFamiliaPrimaria;
+      font-size: clamp(1.5em, 2em, 2.5em);
+    }
+    img {
+      height: clamp(70vh, 95vh, 100vh);
+    }
+  }
+
+  section.cards {
+    margin-top: clamp(5rem, 9rem, 12rem);
+    h2 {
+      font-size: clamp(1.5em, 2em, 2.5em);
+      background: $corBotaoGradiente;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font-weight: 300;
+      font-family: $fonteFamiliaSecundaria;
+      margin-bottom: clamp(5vh, 7vh, 10vh);
+      text-align: center;
+    }
+    div {
+      display: flex;
+      justify-content: space-between;
+      margin: 0 clamp(0.5em, 1em, 2em);
+      div {
+        background-image: radial-gradient(
+          circle farthest-corner at 11.3% -0.8%,
+          rgba(153, 14, 241, 1) 0%,
+          rgba(41, 3, 101, 1) 100.2%
+        );
+        border-radius: 35px;
+        width: clamp(10vw, 15vw, 20vw);
+        height: clamp(25vh, 38vh, 45vh);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        img {
+          border-radius: 30px;
+          width: clamp(10vw, 13vw, 15vw);
+          height: clamp(12vh, 18vh, 20vh);
+          background-color: $corDaFontePrincipal;
+          margin-bottom: clamp(2vh, 4vh, 6vh);
+        }
+        h6 {
+          font-family: $fonteFamiliaPrimaria;
+          font-size: clamp(1.5em, 2em, 2.5em);
+          font-weight: 700;
+          color: $corDaFontePrincipal;
+        }
+      }
+      #cardEmbarcados {
+        width: clamp(12vw, 16vw, 20vw);
+      }
+    }
+  }
+
+  section.sobreNos {
+    display: flex;
+    padding: clamp(10vh, 15vh, 20vh) 0;
+    justify-content: center;
+    flex-direction: column;
+
+    h2 {
+      margin-top: clamp(3vh, 5vh, 7vh);
+      font-size: clamp(1.5em, 2em, 2.5em);
+      background: $corBotaoGradiente;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font-weight: 300;
+      font-family: $fonteFamiliaSecundaria;
+      margin-bottom: clamp(2vh, 3vh, 5vh);
+      text-align: center;
+    }
+
+    p,
+    h3 {
+      font-weight: 650;
+      font-family: $fonteFamiliaPrimaria;
+      text-align: center;
+      font-size: clamp(1em, 3em, 1.5em);
+      color: $corTextoPreto;
+    }
+
+    div {
+      display: flex;
+      justify-content: center;
+      margin-top: clamp(1rem, 2rem, 3rem);
+
+      button {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: clamp(1rem, 1.5rem, 2rem) clamp(2rem, 3rem, 4rem);
+        border-radius: 50px;
+        background: $gradiente;
+        border: none;
+        cursor: pointer;
+
+        i,
+        p {
+          font-family: $fonteFamiliaPrimaria;
+          color: $corDaFontePrincipal;
+          font-weight: 650;
+          font-size: clamp(0.5rem, 1rem, 2rem);
+        }
+
+        i {
+          margin-right: clamp(0.5rem, 1rem, 1.5rem);
+          display: flex;
+          align-items: center;
+        }
+
+        p {
+          margin: 0;
+          display: flex;
+          align-items: center;
+        }
+      }
+    }
+  }
+}
+
+section.letreiro {
+  padding: clamp(2vh, 5vh, 8vh) 0;
+  width: 100%;
+  marquee {
+    width: 100%;
+    i {
+      color: $corTextoPreto;
+      font-size: clamp(1em, 1.3em, 2em);
+      font-weight: 600;
+      font-family: $fonteFamiliaPrimaria;
+    }
+    i#vermelhinho {
+      color: $corVermelho;
+      margin-right: clamp(3vw, 6.5vw, 10vw);
+    }
+  }
+}
+
+footer.finalDoSite {
+  background: $gradiente;
+  color: $corDaFontePrincipal;
+  text-align: center;
+
+  div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: clamp(0.5rem, 1rem, 2rem);
+    article,
+    nav,
+    .imgSection {
+      max-width: clamp(20%, 30%, 40%);
+      margin: 0 clamp(0.5rem, 1rem, 2rem);
+      h4 {
+        text-transform: uppercase;
+      }
+    }
+    nav ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      li {
+        margin: clamp(0.3rem, 0.5rem, 1rem) 0;
+        a {
+          color: $corDaFontePrincipal;
+          text-decoration: none;
+        }
+      }
+    }
+    div.imgSection img {
+      border-radius: 15px;
+      width: 100%;
+    }
+  }
+  div.copyrightSection {
+    padding: clamp(0.5rem, 1rem, 2rem);
+    background-color: rgba(0, 0, 0, 0.2);
+    a {
+      color: $corDaFontePrincipal;
+      text-decoration: none;
+    }
+  }
+}
