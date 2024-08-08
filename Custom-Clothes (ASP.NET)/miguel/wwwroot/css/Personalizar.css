@@ -22,8 +22,8 @@ h1 {
 /*Estilização da Classe Custom*/
 .Custom {
     background-color: #D9D9D9;
-    height: 32em;
-    width: 22em;
+    height: 33em;
+    width: 25em;
     border-radius: 10px;
     margin-bottom: 10em;
 }
@@ -58,8 +58,8 @@ label {
 /*Estilização da Imagem da Camiseta Personalizada*/
 img {
     padding-top: 1em;
-    height: 18em;
-    width: 20em;
+    height: 20em;
+    width: 23em;
     border-radius: 10px;
     margin-bottom: 1em;
 }
@@ -67,7 +67,17 @@ img {
 .botão {
     padding-top: 10px;
     background-color: #220F3A;
+    border-radius:20px;
+    width:12em;
 }
+/*Deixando o botão Ver com Cor Roxa*/
+.botão-2 {
+    padding-top: 10px;
+    background-color: #220F3A;
+    border-radius: 20px;
+    width: 18em;
+}
+
 /*Ajustando a Coluna em que o Usuário colocar a estampa para a esquerda*/
 .Coluna {
     margin-left: 10em;

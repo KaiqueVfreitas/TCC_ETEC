@@ -4,7 +4,7 @@
 <h1 class="text-center fs-1">Personalizar a sua aqui:</h1>
 <!--A div Container vai ser todo o contéudo da Tela de Personalizar-->
 <div class="Container">
-    <!--A Div Customizar vai ser a roupa personalizada conforme o cliente pediu-->
+    <!--A Div Custom vai ser a roupa personalizada conforme o cliente pediu-->
     <div class="Custom">
         <!--Adicionando a Camiseta Personalizada para o usuário ver-->
         <img class="rounded mx-auto d-block" src="~/lib/Imagens/Camiseta.jpg" />
@@ -34,7 +34,7 @@
         </label>
         <!--Label Descição é a descrição da estampa-->
         <label for="text">Descrição:</label>
-        <input type="text" id="descricao-2" required />
+        <input class="w-90" type="text" id="descricao-2" required />
         <br />
         <label class="labels">Tecido da Roupa:</label>
         <label class="labels">Tamanho:</label>
@@ -55,7 +55,7 @@
         </select>
         <br/>
         <br/>
-        <button class="botão text-white btn d-grid gap-2 col-4 mx-auto" onclick="Personalizar()">Personalizar</button>
+        <button class="botão-2 text-white text-center btn d-grid gap-2 col-4 mx-auto" onclick="Personalizar()">Personalizar</button>
     </div>
 </div>
 <script src="~/js/personalizar.js"></script>
