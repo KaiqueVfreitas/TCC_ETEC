@@ -10,6 +10,6 @@
         public string? Tamanho { get; set; }
         public string? Tecido { get; set; }
         public string? Estampa { get; set; }
-        public string? Preco { get; set; }
+        public int Preco { get; set; }
     }
 }

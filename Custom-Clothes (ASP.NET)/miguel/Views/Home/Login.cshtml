@@ -1,4 +1,10 @@
-﻿<!--Link do CSS para estilizar a página HTML-->
+﻿@model Login
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<!--Link do CSS para estilizar a página HTML-->
   <link rel="stylesheet" href="~/css/Login.css"/>
 <!--div class Container vai ser todo a estrutura da Tela de Login-->
 <div class="Container">
@@ -20,14 +26,14 @@
      <div class="segunda-coluna">
          <h2 class="título-2">Ou use o seu email para entrar</h2>
          <!--Classe Formulário para estilizar o formulário-->
-       <form class="Formulário">
-         <input type="email" id="Email" placeholder="Email" required/>
+       <form method="post" action="Index" class="Formulário">
+         <input type="email" name= "Email" placeholder="Email" required/>
           <br/>
-         <input type="password" id="Senha" placeholder="Senha" required/>
+         <input type="password" name="Senha" placeholder="Senha" required/>
           <br/>
          <a class="Senha" asp-area="" asp-controller="Home" asp-action="Index">Esqueceu a senha?</a>
          <br/>
-           <button class ="botão" asp-area="" asp-controller="Home" asp-action="Index">Entrar</button>
+           <input type="submit" class="botão" asp-area="" asp-controller="Home" asp-action="Index" value ="Entrar"/>
        </form>
      </div> 
 </div>

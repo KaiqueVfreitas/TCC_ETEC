@@ -25,3 +25,13 @@ html {
 body {
     margin-bottom: 60px;
 }
+
+/*Texto do rodapé falando da Custom Clothes*/
+.container-1{
+    color:#ffff;
+}
+/*Logo da Custom Clothes*/
+.imagem{
+width:150px;
+height:100px;
+}

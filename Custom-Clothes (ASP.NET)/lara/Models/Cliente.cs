@@ -1,4 +1,4 @@
-﻿namespace CustomClothing.Models
+﻿namespace CustomClothes.Models
 {
         public class Cliente
         {//criando o encapsulamento DO OBJETO COM GET E SET

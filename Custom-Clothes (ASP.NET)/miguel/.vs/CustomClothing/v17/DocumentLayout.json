@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08F22013-95D3-4805-B7C5-5023E34BBD89}|CustomClothing.csproj|c:\\users\\gih\\desktop\\tcc-etec\\tcc_etec\\custom-clothes (asp.net)\\miguel\\wwwroot\\css\\personalizar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{08F22013-95D3-4805-B7C5-5023E34BBD89}|CustomClothing.csproj|solutionrelative:wwwroot\\css\\personalizar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08F22013-95D3-4805-B7C5-5023E34BBD89}|CustomClothing.csproj|c:\\users\\gih\\desktop\\tcc-etec\\tcc_etec\\custom-clothes (asp.net)\\miguel\\views\\personalizar\\personalizar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08F22013-95D3-4805-B7C5-5023E34BBD89}|CustomClothing.csproj|solutionrelative:views\\personalizar\\personalizar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{08F22013-95D3-4805-B7C5-5023E34BBD89}|CustomClothing.csproj|c:\\users\\gih\\desktop\\tcc-etec\\tcc_etec\\custom-clothes (asp.net)\\miguel\\views\\produto\\produto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08F22013-95D3-4805-B7C5-5023E34BBD89}|CustomClothing.csproj|solutionrelative:views\\produto\\produto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Personalizar.css",
-              "DocumentMoniker": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\css\\Personalizar.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\Personalizar.css",
-              "ToolTip": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\css\\Personalizar.css",
-              "RelativeToolTip": "wwwroot\\css\\Personalizar.css",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAE0AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-26T01:03:58.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Personalizar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\Views\\Personalizar\\Personalizar.cshtml",
-              "RelativeDocumentMoniker": "Views\\Personalizar\\Personalizar.cshtml",
-              "ToolTip": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\Views\\Personalizar\\Personalizar.cshtml",
-              "RelativeToolTip": "Views\\Personalizar\\Personalizar.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACsAAAAmAAAA",
+              "Title": "Produto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\Views\\Produto\\Produto.cshtml",
+              "RelativeDocumentMoniker": "Views\\Produto\\Produto.cshtml",
+              "ToolTip": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\Views\\Produto\\Produto.cshtml",
+              "RelativeToolTip": "Views\\Produto\\Produto.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGEAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-26T01:03:42.618Z",
+              "WhenOpened": "2024-08-14T13:28:23.773Z",
               "EditorCaption": ""
             }
           ]

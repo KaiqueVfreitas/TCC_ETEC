@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\css\\Personalizar.css"
     },
     {
+      "Id": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\css\\Produto.css",
+      "PackagePath": "staticwebassets\\css\\Produto.css"
+    },
+    {
       "Id": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -29,12 +33,32 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+      "Id": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\lib\\Imagens\\Beatles.jpg",
+      "PackagePath": "staticwebassets\\lib\\Imagens\\Beatles.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\lib\\Imagens\\Blusa.jpg",
+      "PackagePath": "staticwebassets\\lib\\Imagens\\Blusa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\lib\\Imagens\\Camiseta Feminina.jpg",
+      "PackagePath": "staticwebassets\\lib\\Imagens\\Camiseta Feminina.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\lib\\Imagens\\Camiseta Preta.jpg",
+      "PackagePath": "staticwebassets\\lib\\Imagens\\Camiseta Preta.jpg"
+    },
+    {
       "Id": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\lib\\Imagens\\Camiseta.jpg",
       "PackagePath": "staticwebassets\\lib\\Imagens\\Camiseta.jpg"
     },
     {
       "Id": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\lib\\Imagens\\Custom Clothes.png",
       "PackagePath": "staticwebassets\\lib\\Imagens\\Custom Clothes.png"
+    },
+    {
+      "Id": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\lib\\Imagens\\Mamonas.jpg",
+      "PackagePath": "staticwebassets\\lib\\Imagens\\Mamonas.jpg"
     },
     {
       "Id": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\lib\\Imagens\\icons8-facebook-48.png",

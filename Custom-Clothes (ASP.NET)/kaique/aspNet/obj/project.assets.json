@@ -1786,24 +1786,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kaiqu\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Gih\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaiqu\\OneDrive\\Documentos\\ETEC\\TCC - ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\kaique\\CustomClothes.csproj",
+      "projectUniqueName": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\kaique\\aspNet\\CustomClothes.csproj",
       "projectName": "CustomClothes",
-      "projectPath": "C:\\Users\\kaiqu\\OneDrive\\Documentos\\ETEC\\TCC - ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\kaique\\CustomClothes.csproj",
-      "packagesPath": "C:\\Users\\kaiqu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaiqu\\OneDrive\\Documentos\\ETEC\\TCC - ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\kaique\\obj\\",
+      "projectPath": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\kaique\\aspNet\\CustomClothes.csproj",
+      "packagesPath": "C:\\Users\\Gih\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\kaique\\aspNet\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\kaiqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Gih\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1811,7 +1806,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1862,13 +1856,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\kaiqu\\OneDrive\\Documentos\\ETEC\\TCC - ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\kaique\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

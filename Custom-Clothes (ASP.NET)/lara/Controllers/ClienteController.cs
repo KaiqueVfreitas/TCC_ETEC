@@ -2,7 +2,7 @@
 using Microsoft.Extensions.Logging;
 using CustomClothes.Data;
 
-namespace CustomClothing.Controllers
+namespace CustomClothes.Controllers
 {
     public class ClienteController : Controller
     {

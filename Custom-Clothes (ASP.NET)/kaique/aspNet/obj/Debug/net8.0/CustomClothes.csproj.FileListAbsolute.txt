@@ -118,3 +118,15 @@ C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Cloth
 C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\lara\obj\Debug\net8.0\CustomClothes.genruntimeconfig.cache
 C:\Users\kaiqu\OneDrive\Documentos\ETEC\TCC - ETEC\2 semestre\Sites\Custom-Clothes (ASP.NET)\lara\obj\Debug\net8.0\ref\CustomClothes.dll
 >>>>>>> 42cf27652d936716c480fa967caf814013073a56
+C:\Users\Gih\Desktop\TCC-ETEC\TCC_ETEC\Custom-Clothes (ASP.NET)\kaique\aspNet\obj\Debug\net8.0\CustomClothes.csproj.AssemblyReference.cache
+C:\Users\Gih\Desktop\TCC-ETEC\TCC_ETEC\Custom-Clothes (ASP.NET)\kaique\aspNet\obj\Debug\net8.0\CustomClothes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gih\Desktop\TCC-ETEC\TCC_ETEC\Custom-Clothes (ASP.NET)\kaique\aspNet\obj\Debug\net8.0\CustomClothes.AssemblyInfoInputs.cache
+C:\Users\Gih\Desktop\TCC-ETEC\TCC_ETEC\Custom-Clothes (ASP.NET)\kaique\aspNet\obj\Debug\net8.0\CustomClothes.AssemblyInfo.cs
+C:\Users\Gih\Desktop\TCC-ETEC\TCC_ETEC\Custom-Clothes (ASP.NET)\kaique\aspNet\obj\Debug\net8.0\CustomClothes.csproj.CoreCompileInputs.cache
+C:\Users\Gih\Desktop\TCC-ETEC\TCC_ETEC\Custom-Clothes (ASP.NET)\kaique\aspNet\obj\Debug\net8.0\CustomClothes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gih\Desktop\TCC-ETEC\TCC_ETEC\Custom-Clothes (ASP.NET)\kaique\aspNet\obj\Debug\net8.0\CustomClothes.RazorAssemblyInfo.cache
+C:\Users\Gih\Desktop\TCC-ETEC\TCC_ETEC\Custom-Clothes (ASP.NET)\kaique\aspNet\obj\Debug\net8.0\CustomClothes.RazorAssemblyInfo.cs
+C:\Users\Gih\Desktop\TCC-ETEC\TCC_ETEC\Custom-Clothes (ASP.NET)\kaique\aspNet\obj\Debug\net8.0\CustomClothes.sourcelink.json
+C:\Users\Gih\Desktop\TCC-ETEC\TCC_ETEC\Custom-Clothes (ASP.NET)\kaique\aspNet\obj\Debug\net8.0\CustomClothes.dll
+C:\Users\Gih\Desktop\TCC-ETEC\TCC_ETEC\Custom-Clothes (ASP.NET)\kaique\aspNet\obj\Debug\net8.0\refint\CustomClothes.dll
+C:\Users\Gih\Desktop\TCC-ETEC\TCC_ETEC\Custom-Clothes (ASP.NET)\kaique\aspNet\obj\Debug\net8.0\CustomClothes.pdb
