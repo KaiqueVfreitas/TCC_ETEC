@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\Original\\CustomClothing.csproj",
+      "projectUniqueName": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\Original\\CustomClothing.csproj",
       "projectName": "CustomClothing",
-      "projectPath": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\Original\\CustomClothing.csproj",
+      "projectPath": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\Original\\CustomClothing.csproj",
       "packagesPath": "C:\\Users\\Gih\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC-ETEC\\2 semestre\\Sites\\Custom-Clothes (ASP.NET)\\Original\\obj\\",
+      "outputPath": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\Original\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gih\\AppData\\Roaming\\NuGet\\NuGet.Config",

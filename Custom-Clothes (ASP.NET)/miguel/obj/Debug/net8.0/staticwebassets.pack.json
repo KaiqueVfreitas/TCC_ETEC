@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\css\\teste.css",
+      "PackagePath": "staticwebassets\\css\\teste.css"
+    },
+    {
       "Id": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
@@ -31,6 +35,10 @@
     {
       "Id": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\js\\sugestoes.js",
+      "PackagePath": "staticwebassets\\js\\sugestoes.js"
     },
     {
       "Id": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\lib\\Imagens\\Beatles.jpg",
@@ -53,8 +61,8 @@
       "PackagePath": "staticwebassets\\lib\\Imagens\\Camiseta.jpg"
     },
     {
-      "Id": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\lib\\Imagens\\Custom Clothes.png",
-      "PackagePath": "staticwebassets\\lib\\Imagens\\Custom Clothes.png"
+      "Id": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\lib\\Imagens\\CustomClothes.png",
+      "PackagePath": "staticwebassets\\lib\\Imagens\\CustomClothes.png"
     },
     {
       "Id": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\lib\\Imagens\\Mamonas.jpg",
@@ -71,6 +79,10 @@
     {
       "Id": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\lib\\Imagens\\icons8-linkedin-48.png",
       "PackagePath": "staticwebassets\\lib\\Imagens\\icons8-linkedin-48.png"
+    },
+    {
+      "Id": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\lib\\Imagens\\logoCC.jpeg",
+      "PackagePath": "staticwebassets\\lib\\Imagens\\logoCC.jpeg"
     },
     {
       "Id": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\lib\\bootstrap\\LICENSE",

@@ -17,9 +17,11 @@
     height: 36em;
     width: 25em;
     border-radius: 10px;
+    margin-top: 10em;
     margin-bottom: 10em;
-    padding-left:10px;
+    /*padding-left:10px;*/
 }
+
 img {
     padding-top: 1em;
     height: 23em;
@@ -27,8 +29,18 @@ img {
     border-radius: 10px;
     margin-bottom: 1em;
 }
+
 .botão {
-    padding-top: 10px;
+    /*padding-top: 10px;*/
     background-color: #220F3A;
     border-radius: 20px;
+}
+
+.Teste-1 {
+    margin-left: 20px;
+}
+
+.teste {
+    width: 50px;
+    text-align: center;
 }

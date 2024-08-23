@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{08F22013-95D3-4805-B7C5-5023E34BBD89}|CustomClothing.csproj|c:\\users\\gih\\desktop\\tcc-etec\\tcc_etec\\custom-clothes (asp.net)\\miguel\\views\\produto\\produto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08F22013-95D3-4805-B7C5-5023E34BBD89}|CustomClothing.csproj|solutionrelative:views\\produto\\produto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Produto.cshtml",
-              "DocumentMoniker": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\Views\\Produto\\Produto.cshtml",
-              "RelativeDocumentMoniker": "Views\\Produto\\Produto.cshtml",
-              "ToolTip": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\Views\\Produto\\Produto.cshtml",
-              "RelativeToolTip": "Views\\Produto\\Produto.cshtml",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGEAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-14T13:28:23.773Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

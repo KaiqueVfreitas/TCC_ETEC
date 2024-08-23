@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "F3tVTJfeT++D+Zhx1G6wCtPdk6tcSLYkr03+V3bfimk=",
+  "Hash": "L2Bg/4wuXPg6JOt+X9Hu1IqyqHHuWivFbpJEbKXmUoI=",
   "Source": "CustomClothing",
   "BasePath": "_content/CustomClothing",
   "Mode": "Default",
@@ -131,6 +131,25 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\css\\teste.css",
+      "SourceId": "CustomClothing",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\",
+      "BasePath": "_content/CustomClothing",
+      "RelativePath": "css/teste.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\teste.css"
+    },
+    {
       "Identity": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\favicon.ico",
       "SourceId": "CustomClothing",
       "SourceType": "Discovered",
@@ -186,6 +205,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\js\\sugestoes.js",
+      "SourceId": "CustomClothing",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\",
+      "BasePath": "_content/CustomClothing",
+      "RelativePath": "js/sugestoes.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\sugestoes.js"
     },
     {
       "Identity": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -1138,12 +1176,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\Imagens\\Camiseta.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\lib\\Imagens\\Custom Clothes.png",
+      "Identity": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\lib\\Imagens\\CustomClothes.png",
       "SourceId": "CustomClothing",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\",
       "BasePath": "_content/CustomClothing",
-      "RelativePath": "lib/Imagens/Custom Clothes.png",
+      "RelativePath": "lib/Imagens/CustomClothes.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1154,7 +1192,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\Imagens\\Custom Clothes.png"
+      "OriginalItemSpec": "wwwroot\\lib\\Imagens\\CustomClothes.png"
     },
     {
       "Identity": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\lib\\Imagens\\icons8-facebook-48.png",
@@ -1212,6 +1250,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\Imagens\\icons8-linkedin-48.png"
+    },
+    {
+      "Identity": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\lib\\Imagens\\logoCC.jpeg",
+      "SourceId": "CustomClothing",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\",
+      "BasePath": "_content/CustomClothing",
+      "RelativePath": "lib/Imagens/logoCC.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\Imagens\\logoCC.jpeg"
     },
     {
       "Identity": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\wwwroot\\lib\\Imagens\\Mamonas.jpg",
