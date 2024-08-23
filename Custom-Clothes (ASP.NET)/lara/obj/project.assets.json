@@ -1786,19 +1786,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gih\\.nuget\\packages\\": {}
+    "C:\\Users\\3mod\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\lara\\CustomClothes.csproj",
+      "projectUniqueName": "F:\\3A-MODULAR\\MIGUEL_E_KAUE\\DTCC\\TCC-MIGUEL\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\lara\\CustomClothes.csproj",
       "projectName": "CustomClothes",
-      "projectPath": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\lara\\CustomClothes.csproj",
-      "packagesPath": "C:\\Users\\Gih\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\lara\\obj\\",
+      "projectPath": "F:\\3A-MODULAR\\MIGUEL_E_KAUE\\DTCC\\TCC-MIGUEL\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\lara\\CustomClothes.csproj",
+      "packagesPath": "C:\\Users\\3mod\\.nuget\\packages\\",
+      "outputPath": "F:\\3A-MODULAR\\MIGUEL_E_KAUE\\DTCC\\TCC-MIGUEL\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\lara\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Gih\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\3mod\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1806,6 +1811,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1818,11 +1824,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1853,16 +1854,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema ao ler o arquivo de cache C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\lara\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

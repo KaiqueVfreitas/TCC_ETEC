@@ -130,3 +130,15 @@ C:\Users\Gih\Desktop\TCC-ETEC\TCC_ETEC\Custom-Clothes (ASP.NET)\lara\obj\Debug\n
 C:\Users\Gih\Desktop\TCC-ETEC\TCC_ETEC\Custom-Clothes (ASP.NET)\lara\obj\Debug\net8.0\CustomClothes.dll
 C:\Users\Gih\Desktop\TCC-ETEC\TCC_ETEC\Custom-Clothes (ASP.NET)\lara\obj\Debug\net8.0\refint\CustomClothes.dll
 C:\Users\Gih\Desktop\TCC-ETEC\TCC_ETEC\Custom-Clothes (ASP.NET)\lara\obj\Debug\net8.0\CustomClothes.pdb
+F:\3A-MODULAR\MIGUEL_E_KAUE\DTCC\TCC-MIGUEL\TCC_ETEC\Custom-Clothes (ASP.NET)\lara\obj\Debug\net8.0\CustomClothes.csproj.AssemblyReference.cache
+F:\3A-MODULAR\MIGUEL_E_KAUE\DTCC\TCC-MIGUEL\TCC_ETEC\Custom-Clothes (ASP.NET)\lara\obj\Debug\net8.0\CustomClothes.GeneratedMSBuildEditorConfig.editorconfig
+F:\3A-MODULAR\MIGUEL_E_KAUE\DTCC\TCC-MIGUEL\TCC_ETEC\Custom-Clothes (ASP.NET)\lara\obj\Debug\net8.0\CustomClothes.AssemblyInfoInputs.cache
+F:\3A-MODULAR\MIGUEL_E_KAUE\DTCC\TCC-MIGUEL\TCC_ETEC\Custom-Clothes (ASP.NET)\lara\obj\Debug\net8.0\CustomClothes.AssemblyInfo.cs
+F:\3A-MODULAR\MIGUEL_E_KAUE\DTCC\TCC-MIGUEL\TCC_ETEC\Custom-Clothes (ASP.NET)\lara\obj\Debug\net8.0\CustomClothes.csproj.CoreCompileInputs.cache
+F:\3A-MODULAR\MIGUEL_E_KAUE\DTCC\TCC-MIGUEL\TCC_ETEC\Custom-Clothes (ASP.NET)\lara\obj\Debug\net8.0\CustomClothes.MvcApplicationPartsAssemblyInfo.cache
+F:\3A-MODULAR\MIGUEL_E_KAUE\DTCC\TCC-MIGUEL\TCC_ETEC\Custom-Clothes (ASP.NET)\lara\obj\Debug\net8.0\CustomClothes.RazorAssemblyInfo.cache
+F:\3A-MODULAR\MIGUEL_E_KAUE\DTCC\TCC-MIGUEL\TCC_ETEC\Custom-Clothes (ASP.NET)\lara\obj\Debug\net8.0\CustomClothes.RazorAssemblyInfo.cs
+F:\3A-MODULAR\MIGUEL_E_KAUE\DTCC\TCC-MIGUEL\TCC_ETEC\Custom-Clothes (ASP.NET)\lara\obj\Debug\net8.0\CustomClothes.sourcelink.json
+F:\3A-MODULAR\MIGUEL_E_KAUE\DTCC\TCC-MIGUEL\TCC_ETEC\Custom-Clothes (ASP.NET)\lara\obj\Debug\net8.0\CustomClothes.dll
+F:\3A-MODULAR\MIGUEL_E_KAUE\DTCC\TCC-MIGUEL\TCC_ETEC\Custom-Clothes (ASP.NET)\lara\obj\Debug\net8.0\refint\CustomClothes.dll
+F:\3A-MODULAR\MIGUEL_E_KAUE\DTCC\TCC-MIGUEL\TCC_ETEC\Custom-Clothes (ASP.NET)\lara\obj\Debug\net8.0\CustomClothes.pdb

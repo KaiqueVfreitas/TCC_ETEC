@@ -1,6 +1,6 @@
 ﻿body {
     margin-bottom: 60px;
-    background-color: #9F9F9F;
+    background-color: #D9D9D9;
 }
 /* Reset  para a página se adaptar com cada tipo de navegador*/
 *{
@@ -13,14 +13,14 @@
 .Container {
     display: flex;
     border-radius: 20px;
-    background-color: #FFFFFF;
+    background-color: #fff;
     margin-top: 50px;
     padding-top: 60px;
     padding-bottom: 60px;
     justify-content: space-between;
-    align-items:center;
+    align-items: center;
     height: 60vh;
-    position:relative;
+    position: relative;
 }
 /*O método before serve para colocar a cor roxa no entre com a sua conta de Redes Sociais*/
 .Container:before {
@@ -61,11 +61,11 @@
 }
 /*Estilizando o título entre com o seu Email*/
 .título-2 {
-    color: #A4A4A4;
+    color: #9F9F9F;
     font-size: 16px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin-left: 115px;
-    margin-bottom:15px;
+    margin-bottom: 15px;
 }
 
 /*Estilização do formulário de Login*/
@@ -80,7 +80,7 @@
 /*Comportamento de Esqueceu a Senha quando for clicado*/
 .Senha {
     text-decoration: none;
-    color: #979797;
+    color: #9F9F9F;
 }
 
 .Senha:hover {
@@ -92,7 +92,7 @@ input {
     height: 45px;
     border-radius: 10px;
     width: 320px;
-    background-color: #9F9F9F;
+    background-color: #D9D9D9;
     border: none;
 }
 /*Estilização do botão entrar  e comportamento do botão ao ser clicado*/

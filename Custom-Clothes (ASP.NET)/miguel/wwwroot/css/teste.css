@@ -6,6 +6,7 @@
 
 header {
     width: 100%;
+    background-color:#fff;
     /*padding-top: 1em;*/
 }
 
@@ -37,7 +38,7 @@ div.pesquisa i {
 header nav {
     display: flex;
     justify-content: space-between;
-    padding: 1em 3em;
+    padding: 1em 10em;
     background-color: #1C003F;
 }
 
