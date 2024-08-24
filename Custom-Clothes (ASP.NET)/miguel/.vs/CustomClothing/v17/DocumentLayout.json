@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gih\\Desktop\\TCC-ETEC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Gih\\Desktop\\TCC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08F22013-95D3-4805-B7C5-5023E34BBD89}|CustomClothing.csproj|c:\\users\\gih\\desktop\\tcc\\tcc_etec\\custom-clothes (asp.net)\\miguel\\views\\home\\sobrenos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08F22013-95D3-4805-B7C5-5023E34BBD89}|CustomClothing.csproj|solutionrelative:views\\home\\sobrenos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sobrenos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gih\\Desktop\\TCC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\Views\\Home\\Sobrenos.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Sobrenos.cshtml",
+              "ToolTip": "C:\\Users\\Gih\\Desktop\\TCC\\TCC_ETEC\\Custom-Clothes (ASP.NET)\\miguel\\Views\\Home\\Sobrenos.cshtml",
+              "RelativeToolTip": "Views\\Home\\Sobrenos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T17:58:51.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
